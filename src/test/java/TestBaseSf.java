@@ -2,10 +2,12 @@ import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.Selenide;
 import com.codeborne.selenide.logevents.SelenideLogger;
 import helpers.Attach;
+import io.qameta.allure.Step;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.DisplayName;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.util.Map;
@@ -22,6 +24,7 @@ public class TestBaseSf {
     }
 
     @BeforeEach
+    @Step("Открываем главную страницу Суши-Маркета")
     void setUp() {
         Configuration.browserSize = "1920x1080";
         Selenide.open("https://sushi-market.com/");

@@ -49,3 +49,9 @@
 gradle clean test
 через интерфей INTELLIG IDEA
 ```
+## <img src="images/Allure_Report.svg" width="25" height="25"  alt="Allure"/></a> Отчет в <a target="_blank" href="https://jenkins.autotests.cloud/job/berezkindv_performance_lab_complete_project/22/allure/">Allure report</a>
+### Тесты
+
+<p align="center">
+<img title="Allure1" src="images/Allur1.png">
+</p>

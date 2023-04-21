@@ -5,38 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fad03f09-063a-4fd3-b24a-e1cc8e8de547" name="Changes" comment="v1">
-      <change afterPath="$PROJECT_DIR$/images/Allure_EE.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Allure_Report.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Appium.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Browserstack.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Docker.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Gradle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Intelij_IDEA.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/JUnit5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Java.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Jenkins.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Jira.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Rest-Assured.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Selenide.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Selenium.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Selenoid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Slack.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Telegram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/allure_graphics.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/allure_main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/allure_telegram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/allure_tests.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jenkins_job.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jira_task.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/testOps_main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/testOps_tests.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/video1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/video2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/video3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/video4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Allur1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestBaseSf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestBaseSf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,16 +75,65 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/program/IntelliJIDEA/Proect/sf_final_project&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/code/berezkindv_performance_lab_autotests_project&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\program\IntelliJIDEA\Proect\sf_final_project\images" />
       <recent name="D:\program\IntelliJIDEA\Proect\sf_final_project" />
       <recent name="D:\program\IntelliJIDEA\Proect\sf_final_project\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.SushiMarketTests.refundViaLogo">
+  <component name="RunManager" selected="Gradle.sf_final_project [allureServe]">
+    <configuration name="SushiMarketTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;SushiMarketTests&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="SushiMarketTests.costOfTheOrder" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;SushiMarketTests.costOfTheOrder&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
     <configuration name="SushiMarketTests.deliciousRegistration" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -127,54 +148,6 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;SushiMarketTests.deliciousRegistration&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
-    </configuration>
-    <configuration name="SushiMarketTests.orderСall" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;SushiMarketTests.orderСall&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
-    </configuration>
-    <configuration name="SushiMarketTests.partnersPage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;SushiMarketTests.partnersPage&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -209,37 +182,35 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="SushiMarketTests.ydalit" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="sf_final_project [allureServe]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;SushiMarketTests.ydalit&quot;" />
+            <option value="allureServe" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
+      <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.sf_final_project [allureServe]" />
+        <item itemvalue="Gradle.SushiMarketTests" />
+        <item itemvalue="Gradle.SushiMarketTests.costOfTheOrder" />
         <item itemvalue="Gradle.SushiMarketTests.refundViaLogo" />
         <item itemvalue="Gradle.SushiMarketTests.deliciousRegistration" />
-        <item itemvalue="Gradle.SushiMarketTests.partnersPage" />
-        <item itemvalue="Gradle.SushiMarketTests.ydalit" />
-        <item itemvalue="Gradle.SushiMarketTests.orderСall" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682057897856</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v1">
+      <created>1682059381187</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682059381187</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
