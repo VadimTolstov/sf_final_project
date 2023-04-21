@@ -4,10 +4,10 @@
 ## :pushpin: Содержание:
 
 - [Технологии и инструменты](#technologist-технологии-и-инструменты)
-- [Реализованные проверки](#earth_africa-Реализованные-проверки)
+- [Реализованные проверки](#technologistt-Реализованные-проверки)
 - [Запуск тестов](#earth_africa-Запуск-тестов)
 
-## :rocket: Технологии и инструменты
+## :technologist: Технологии и инструменты
 
 <p align="center">
 <a href="https://www.jetbrains.com/idea/"><img src="images/Intelij_IDEA.svg" width="50" height="50"  alt="IDEA"/></a>
@@ -19,7 +19,7 @@
 <a href="https://github.com/allure-framework/allure2"><img src="images/Allure_Report.svg" width="50" height="50"  alt="Allure"/></a>
 </p>
 
-## :technologist: Реализованные проверки
+## :technologistt: Реализованные проверки
 
 - ✓ Выбор городов для доставки.
 - ✓ Поиск несущестующего города.
