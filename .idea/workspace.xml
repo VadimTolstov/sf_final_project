@@ -4,19 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad03f09-063a-4fd3-b24a-e1cc8e8de547" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tolstov_vadim/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SushiMarketTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestBaseSf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/Attach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/Regress.java" afterDir="false" />
+    <list default="true" id="fad03f09-063a-4fd3-b24a-e1cc8e8de547" name="Changes" comment="v1">
+      <change afterPath="$PROJECT_DIR$/images/Allure_EE.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Allure_Report.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Appium.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Browserstack.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Docker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Gradle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Intelij_IDEA.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/JUnit5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Java.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Jenkins.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Jira.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Rest-Assured.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Selenide.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Selenium.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Selenoid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Slack.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Telegram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/allure_graphics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/allure_main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/allure_telegram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/allure_tests.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jenkins_job.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jira_task.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/testOps_main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/testOps_tests.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video4.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +88,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OC4OpnA9SB3Q043txJs9ITxdYn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -75,15 +99,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/program/IntelliJIDEA/Proect/sf_final_project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/program/IntelliJIDEA/Proect/sf_final_project&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\program\IntelliJIDEA\Proect\sf_final_project" />
       <recent name="D:\program\IntelliJIDEA\Proect\sf_final_project\src\test\java" />
     </key>
   </component>
@@ -227,6 +252,41 @@
       <option name="presentableId" value="Default" />
       <updated>1681051202584</updated>
     </task>
+    <task id="LOCAL-00001" summary="v1">
+      <created>1682057897856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682057897856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
   </component>
 </project>
